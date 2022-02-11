@@ -1,0 +1,261 @@
+Test Case 1 : 
+
+Input : 
+
+Bill : 500
+Tip % : 10
+No. Of Person : 1
+
+Output :
+
+Tip Per Person : 50
+Total Per Person : 550
+
+Test Case 2 : 
+
+Input : 
+
+Bill : 1000
+Tip % : 10
+No. Of Person : 1
+
+Output :
+
+Tip Per Person : 100
+Total Per Person : 1100
+
+Test Case 3 : 
+
+Input : 
+
+Bill : 250
+Tip % : 10
+No. Of Person : 1
+
+Output :
+
+Tip Per Person : 25
+Total Per Person : 275
+
+
+Test Case 4 : 
+
+Input : 
+
+Bill : 100
+Tip % : 9
+No. Of Person : 2
+
+Output :
+
+Tip Per Person : 4.50
+Total Per Person : 54.50
+
+Test Case 5 : 
+
+Input : 
+
+Bill : 310
+Tip % : 21
+No. Of Person : 4
+
+Output :
+
+Tip Per Person : 16.27
+Total Per Person : 93.78
+
+Test Case 6 : 
+
+Input : 
+
+Bill : 185
+Tip % : 15
+No. Of Person : 1
+
+Output :
+
+Tip Per Person : 27.75
+Total Per Person : 212.75
+
+Test Case 7 : 
+
+Input : 
+
+Bill : 1500
+Tip % : 5
+No. Of Person : 5
+
+Output :
+
+Tip Per Person : 15
+Total Per Person : 315
+
+Test Case 8 : 
+
+Input : 
+
+Bill : 1
+Tip % : 1
+No. Of Person : 5
+
+Output :
+
+Tip Per Person : 0.00
+Total Per Person : 0.20
+
+Test Case 9 : 
+
+Input : 
+
+Bill : 25
+Tip % : 10
+No. Of Person : 10
+
+Output :
+
+Tip Per Person : 0.25
+Total Per Person : 2.75
+
+Test Case 10 : 
+
+Input : 
+
+Bill : 205
+Tip % : 10
+No. Of Person : 1
+
+Output :
+
+Tip Per Person : 2.05
+Total Per Person : 22.55
+
+Test Case 11 : 
+
+Input : 
+
+Bill : 150
+Tip % : 9
+No. Of Person : 5
+
+Output :
+
+Tip Per Person : 0.83
+Total Per Person : 17.50
+
+Test Case 12 : 
+
+Input : 
+
+Bill : 345
+Tip % : 9
+No. Of Person : 4
+
+Output :
+
+Tip Per Person : 7.76
+Total Per Person : 94.01
+
+Test Case 13 : 
+
+Input : 
+
+Bill : 10000
+Tip % : 10
+No. Of Person : 9
+
+Output :
+
+Tip Per Person : 111.11
+Total Per Person : 1222.22
+
+
+Test Case 14 : 
+
+Input : 
+
+Bill : 0
+Tip % : 10
+No. Of Person : 9
+
+Output :
+
+Tip Per Person : 0.00
+Total Per Person : 0.00
+
+Test Case 15 : 
+
+Input : 
+
+Bill : 1250
+Tip % : 50
+No. Of Person : 10
+
+Output :
+
+Tip Per Person : 62.50
+Total Per Person : 187.50
+
+Test Case 16 : 
+
+Input : 
+
+Bill : 1379
+Tip % : 100
+No. Of Person : 1
+
+Output :
+
+Tip Per Person : 1379
+Total Per Person : 2758
+
+Test Case 17 : 
+
+Input : 
+
+Bill : 758
+Tip % : 5
+No. Of Person : 3
+
+Output :
+
+Tip Per Person : 12.63
+Total Per Person : 265.30
+
+Test Case 18 : 
+
+Input : 
+
+Bill : 255
+Tip % : 7
+No. Of Person : 5
+
+Output :
+
+Tip Per Person : 3.57
+Total Per Person : 54.57
+
+Test Case 19 : 
+
+Input : 
+
+Bill : 9999
+Tip % : 10
+No. Of Person : 10
+
+Output :
+
+Tip Per Person : 99.99
+Total Per Person : 1099.89
+
+Test Case 20 : 
+
+Input : 
+
+Bill : 3652
+Tip % : 20
+No. Of Person : 6
+
+Output :
+
+Tip Per Person : 121.73
+Total Per Person : 730.40
